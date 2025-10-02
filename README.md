@@ -28,12 +28,9 @@ Este projeto é um **formulário de criação de conta de usuário**, desenvolvi
  ├── js/
  │   └── script.js
  └── README.md
+```
 
-## 🚀 Como usar
 
-1. Clone ou baixe este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
 🎨 Tecnologias Utilizadas
 
 HTML
