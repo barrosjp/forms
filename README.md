@@ -21,7 +21,11 @@ Este projeto é um **formulário de criação de conta de usuário**, desenvolvi
 
 ## 📁 Estrutura de Arquivos
 
-
+/
+├── index.html # Página principal
+├── style.css # Estilos do formulário
+├── script.js # Validações e interações
+└── README.md # Este arquivo
 ---
 
 ## 🚀 Como usar
@@ -42,6 +46,3 @@ JavaScript
 
 Feito por [João pedro e Isau] 👨‍💻
 
-GitHub: github.com/seu-usuario
-
-LinkedIn: linkedin.com/in/seu-perfil
