@@ -21,13 +21,13 @@ Este projeto é um **formulário de criação de conta de usuário**, desenvolvi
 
 ## 📁 Estrutura de Arquivos
 
-/
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-└── README.md
+  /
+ ├── index.html
+ ├── css/
+ │   └── style.css
+ ├── js/
+ │   └── script.js
+ └── README.md
 
 ## 🚀 Como usar
 
