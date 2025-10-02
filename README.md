@@ -21,7 +21,7 @@ Este projeto é um **formulário de criação de conta de usuário**, desenvolvi
 
 ## 📁 Estrutura de Arquivos
 
-  /
+  ```
  ├── index.html
  ├── css/
  │   └── style.css
