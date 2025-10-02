@@ -1,6 +1,6 @@
 # 📋 Formulário de Cadastro - HTML, CSS e JavaScript
 
-Este projeto é um **formulário de criação de conta de usuário**, desenvolvido com foco em validação de dados usando **HTML5, CSS3 e JavaScript puro (Vanilla JS)**.
+Este projeto é um **formulário de criação de conta de usuário**, desenvolvido com foco em validação de dados usando **HTML, CSS e JavaScript puro **.
 
 ## 🧪 Funcionalidades
 
@@ -31,29 +31,16 @@ Este projeto é um **formulário de criação de conta de usuário**, desenvolvi
    git clone https://github.com/seu-usuario/seu-repositorio.git
 🎨 Tecnologias Utilizadas
 
-HTML5
+HTML
 
-CSS3
+CSS
 
-JavaScript (Vanilla JS)
+JavaScript 
 
-Google Fonts (Poppins)
-
-✨ Possíveis Melhorias Futuras
-
-Integração com backend (API)
-
-Uso de localStorage ou sessionStorage
-
-Animações de validação mais avançadas
-
-Mensagens de sucesso personalizadas
-
-Trocar elemento <a> por <small> nas mensagens de erro para semântica mais adequada
 
 🧠 Autor
 
-Feito por [Seu Nome] 👨‍💻
+Feito por [João pedro e Isau] 👨‍💻
 
 GitHub: github.com/seu-usuario
 
