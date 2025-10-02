@@ -31,16 +31,12 @@ Este projeto é um **formulário de criação de conta de usuário**, desenvolvi
 ```
 
 
-🎨 Tecnologias Utilizadas
+## 🎨 Tecnologias Utilizadas
 
-HTML
-
-CSS
-
-JavaScript 
+HTML, CSS e JavaScript 
 
 
-🧠 Autor
+## 🧠 Autores
 
-Feito por [João pedro e Isau] 👨‍💻
+Feito por João Pedro Barros e Isau Gomes
 
