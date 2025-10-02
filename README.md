@@ -23,8 +23,11 @@ Este projeto é um **formulário de criação de conta de usuário**, desenvolvi
 
 /
 ├── index.html # Página principal
+
 ├── style.css # Estilos do formulário
+
 ├── script.js # Validações e interações
+
 └── README.md # Este arquivo
 ---
 
